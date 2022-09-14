@@ -1,0 +1,15 @@
+name: MinearteVote40
+main: es.angelillo15.mineartevote40.MinearteVote40
+version: 1.0
+author: Angelillo15
+description: MinearteNetwork Vote40 plugin for 40servidoresmc.es
+website: https://minearte.net
+commands:
+  vote:
+    description: Vote for the server
+    aliases: [v]
+    usage: /vote
+  vote40:
+    description: Vote for the server
+    aliases: [v40]
+    usage: /vote40

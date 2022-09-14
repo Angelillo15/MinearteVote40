@@ -1,0 +1,9 @@
+Messages:
+  prefix: '&6&lVotes &8&l»&r'
+  broadcast: '{prefix} &7Gracias &a{player} por votarnos! El ya ha obtenido su recompensa usa &6/vote &7para tu tambien conseguir tu recompensa!'
+  no-permission: '{prefix} &cNo tienes permiso para ejecutar este comando!'
+  no-vote: '{prefix} &cNo has votado en los ultimos 24 horas! entra en: &6https://www.40servidoresmc.es/yourserver'
+  voteMessage: '{prefix} &7Gracias &a{player} por votarnos!'
+  already-voted: '{prefix} &cYa has votado en los ultimos 24 horas!'
+  error: '{prefix} &cHa ocurrido un error! Contacta con un administrador!'
+  help: '{prefix} &7Comandos: &6/vote &7- &6/vote40'

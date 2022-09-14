@@ -1,0 +1,19 @@
+# This is an open source project, feel free to contribute!
+# MinearteVote40 is free software: you can redistribute it and/or modify
+#
+# This file is part of the "MinearteVote40" project.
+#
+# MinearteVote40 © 2022 Angelillo15
+#
+Config:
+  # Here you can set the server key
+  # you can get it from https://www.40servidoresmc.es/miservidor.php
+  key: 'your-server-key'
+  # Debug messages
+  debug: false
+  # Broadcast a message when a player votes
+  broadcast: true
+  # Command that console executes when a player votes
+  commands:
+    - 'eco give {player} 1000'
+    - 'lp user {player} parent addtemp vip 1d'
